@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Cairo', sans-serif;
+    background: url("../images/cover.jpg");
+    background-size: cover;
+}
+.signup-form{
+
+    width: 300px;
+    background: #fff;
+    padding: 10px 20px;
+    margin: 6% auto 0;
+    text-align: center;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+    opacity: 85%;
+    border-radius: 10%;
+}
+.signup-form h1{
+    color: #1c8adb;
+}
+.input{
+border-radius: 20px;
+width: 280px;
+margin: 10px 0;
+padding: 10px;
+border: 1px solid #999;
+outline: none;
+}
+input[type=submit]{
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    margin: 10px 0;
+    cursor: pointer;
+}
+.sub{
+    background-color: #21afde;
+}
+.sub-fac{
+    background-color: #3b5993;
+}
+hr{
+    margin-top: 20px;
+    width: 80%;
+}
+.or{
+  background: #fff;
+  width: 30px;
+  margin: -25px auto 10px;  
+}
+img{
+    width: 70px;
+    border-radius: 50%;
+    margin-top: -70px;
+}
+.table{
+    width: 90%;
+    margin-left: 5%;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-style: italic;
+    border-color: blue;
+    background: khaki;
+    
+    
+}
+
+
